@@ -1,4 +1,4 @@
-# baseurl: '/iconic-resume'
+baseurl: '/iconic-resume'
 
 name: Josh Lee
 
@@ -10,29 +10,24 @@ contact:
   -
     icon: 'bi bi-globe'
     name: example.com
-    url: 'https://www.example.com'  # replace with your own address
+    url: 'https://medium.com/@siyanda.mfana'  # replace with your own address
   -
     icon: 'bi bi-envelope'
     name: name@gmail.com
-    url: 'mailto:username@gmail.com'  # replace with your own email
+    url: 'mailto:siyanda.mfana@gmail.com'  # replace with your own email
   -
     icon: 'bi bi-linkedin'
-    name: Josh Lee
-    url: 'https://www.linkedin.com/in/username'  # replace with your own address
+    name: Siyanda Mfana
+    url: 'https://www.linkedin.com/in/siyanda-mfana-3083281a/'  # replace with your own address
   -
     icon: 'bi bi-github'
-    name: joshtech
-    url: 'https://github.com/username'  # replace with your own address
+    name: Siyanda Mfana
+    url: 'https://github.com/Siyanda-Mfana'  # replace with your own address
   -
-    icon: 'bi bi-youtube'
-    name: joshchannel
-    url: 'https://youtube.com'  # replace with your own address
 
 language:
   - English
-  - Italian
-  - Swedish
-  - Japanese
+  - IsiXhosa
 
 techstack:
   -
@@ -88,10 +83,6 @@ techstack:
     name: git
     link: 'https://github.com/'  # replace with your own repo address
 
-hobby:
-  - Swimming
-  - Hiking
-  - Cooking
 
 ########### Education
 education:
